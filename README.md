@@ -1,7 +1,16 @@
-# Navicat Premium-16 KEY tial refresh 14 day
-For development only ,this code i get from another developer too.
- - Download Key Refresh trial 
- ``navicat-refresh.bat``
- - Download Navicat Premium 16.3.xx
+# testin
 
-https://www.navicat.com/en/download/navicat-premium
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
